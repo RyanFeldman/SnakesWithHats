@@ -1,0 +1,130 @@
+html
+{ height: 100%;}
+
+*
+{ margin: 0;
+  padding: 0;}
+
+body
+{ font: normal .80em 'trebuchet ms';
+  background: #FFFFFF;
+  color: #FFF;}
+
+p
+{ padding: 0 0 20px 0;
+  line-height: 1.5em;}
+
+img
+{ border: 0;}
+
+h1, h2, h3
+{ font: normal 200% 'century gothic';
+  color: #48D1CC;
+  margin: 0 0 15px 0;
+  padding: 15px 0 5px 0;}
+  
+h4
+{ font: normal 150% 'century gothic';
+  color: #48D1CC;
+  padding: 0px 0 10px 0;}
+
+a
+{ outline: none;
+  text-decoration: underline;
+  color: #FFF;}
+
+#main, #logo, #menubar, #site_content, #footer
+{ margin-left: auto; 
+  margin-right: auto;}
+
+#header
+{ background: transparent;
+  height: 202px;}
+
+#logo
+{ width: 898px;
+  position: relative;
+  height: 148px;}
+
+#logo #logo_text 
+{ position: absolute; 
+  top: 20px;
+  left: 0;}
+
+#logo h1
+{ font: normal 350% 'century gothic';
+  border-bottom: 0;
+  text-transform: none;
+  margin: 0;}
+
+#logo_text h1, #logo_text h1 a
+{ padding: 22px 0 0 0;
+  color: #000;
+  text-decoration: none;}
+
+#logo_text h2
+{ font-size: 100%;
+  padding: 4px 0 0 0;
+  color: #000;}
+
+#menubar
+{ width: 898px;
+  height: 50px;
+  padding: 0;
+  background: #000;} 
+
+ul#menu, ul#menu li
+{ float: left;
+  margin: 0; 
+  padding: 0;}
+
+ul#menu li
+{ list-style: none;}
+
+ul#menu li a
+{ letter-spacing: 0.1em;
+  font: normal 120% arial, sans-serif;
+  display: block; 
+  float: left; 
+  height: 18px;
+  margin: 10px 0 0 10px;
+  padding: 7px 52px 6px 52px;
+  text-align: center;
+  color: #FFF;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: transparent;} 
+
+#site_content
+{ width: 854px;
+  overflow: hidden;
+  margin: 0 auto 0 auto;
+  padding: 0 24px 20px 20px;
+  background: #000;} 
+
+#content
+{ text-align: left;
+  float: left;
+  width: 595px;
+  padding-right: 9px;}
+  
+#content ul
+{ list-style-position: inside;}
+  
+#sidebar img
+{ padding-top: 20px}
+
+#footer
+{ width: 898px;
+  font: normal 100% 'lucida sans unicode', arial, sans-serif;
+  letter-spacing: 0.1em;
+  height: 30px;
+  padding: 24px 0 5px 0;
+  text-align: center; 
+  background: transparent;
+  color: #000;
+  text-transform: uppercase;}
+
+#footer a
+{ color: #000;
+  text-decoration: none;}

@@ -1,0 +1,11 @@
+	The target audience for Snakes With Hats is anybody who owns a snake, wants to own a snake, or deeply
+cares about the intricacies snake perception and emotion. It was a promotional website trying to change 
+the mind of those who don't put hats on their snakes. I chose a very neat, simple look for the site. I also
+made sure to add in many pictures of snakes with hats on each page, to reinforce the main content of the site 
+with the most influencial "argument". 
+	The PHP aspects came into play when I made my contact form. Not only did I want email functionality, but 
+I know many hatless-snakes activists will be angry with me, so they may send me horrible messages. Thus, I 
+created a filter that changes any curse to asterisks, and calls them a filthy person if they use any. 
+
+The WOW factor I wanted to go for is "Creative, entertaining content theme", especially from the Testimonials 
+page. I took a long time phrasing and deciding on content for the site.
